@@ -1,0 +1,3 @@
+all: installfonts target
+
+target:
